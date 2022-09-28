@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootAnimation.iml" filepath="$PROJECT_DIR$/.idea/modules/BootAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BootAnimation.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
